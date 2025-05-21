@@ -1,4 +1,4 @@
-# 🏥 APS1 - Hospital Triage System
+# 🏥 Hospital Triage System
 
 ## 🇧🇷 Português
 
